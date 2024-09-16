@@ -1,4 +1,4 @@
-# Delicious Chocolate Cake Recipe
+# Delicious Chocolate Cake Recipe after resolving conflicts
 
 ## Ingredients:
 git- 2 cups all-purpose flour
